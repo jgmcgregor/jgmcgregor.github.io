@@ -17,7 +17,7 @@ title: "Jamie McGregor"
 subtitle: "Astrophysicist"
 email: james.mcgregor<AT>anu.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website for James (Jamie) McGregor -- currently a work in progress, stay tuned!
+  Jamie McGregor's website
 twitter_username: #username
 github_username: jgmcgregor
 minimal_mistakes_skin: neon
@@ -75,6 +75,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jgmcgregor"
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
