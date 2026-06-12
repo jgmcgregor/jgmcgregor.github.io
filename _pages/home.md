@@ -1,6 +1,10 @@
 ---
 permalink: /
 author_profile: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/bh1.png
+  overlay_filter: 0.4
 classes: wide
 ---
 
