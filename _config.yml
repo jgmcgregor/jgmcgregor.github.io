@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Jamie McGregor"
-subtitle: "Astrophysicist"
+#subtitle: "Astrophysicist"
 email: james.mcgregor<AT>anu.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   Jamie McGregor's website
-twitter_username: #username
 github_username: jgmcgregor
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: contrast
 search: false
 
 # Build settings
@@ -56,7 +55,7 @@ plugins:
 
 author:
   name   : "James (Jamie) McGregor"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/website_innsbruck.jpg"
   bio    : "PhD Candidate in Astrophysics @ ANU"
   location         : "Canberra, Australia"
   links:
