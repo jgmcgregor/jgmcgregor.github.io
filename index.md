@@ -1,6 +1,7 @@
 ---
-layout: splash
+layout: single
 permalink: /
+title: "About"
 author_profile: true
 header:
   image: /assets/images/landscape_canberra.jpg

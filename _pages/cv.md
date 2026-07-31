@@ -2,6 +2,8 @@
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+header:
+  image: /assets/images/landscape_canberra.jpg
 classes: wide
 ---
 

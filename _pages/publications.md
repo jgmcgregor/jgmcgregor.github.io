@@ -2,6 +2,8 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header:
+  image: /assets/images/landscape_prague.jpg
 classes: wide
 ---
 
