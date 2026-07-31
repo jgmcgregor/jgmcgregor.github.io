@@ -2,6 +2,8 @@
 title: "Scientific Interests"
 permalink: /research/
 author_profile: true
+header:
+  image: /assets/images/sky_cloud.jpg
 classes: wide
 ---
 
